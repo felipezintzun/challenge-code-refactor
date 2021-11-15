@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER / NAV BAR STYLES START */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +41,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* END HEADER / NAVBAR STYLES END */
 
+/* CONTENT STYLES START */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -92,7 +95,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
   }
+  /* CONTENT STYLES END */
 
+  /* BENEFITS STYLES START */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +121,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*BENEFITS STYLES END */
 
+/* FOOTER STYLES START */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,3 +134,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* FOOTER STYLES END */
